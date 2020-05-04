@@ -1,7 +1,13 @@
-BSD 3-Clause License
-
-Copyright (c) 2020, MarcelMG
+All code which is part of the ST CubeHAL is
+Copyright (c) 2020 STMicroelectronics
 All rights reserved.
+
+The code in the main() function inside the file main.c is
+Copyright (c) 2020 Marcel Meyer Garcia
+and also released under the BSD 3-Clause License.
+All rights reserved.
+
+BSD 3-Clause License
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
