@@ -1,0 +1,2 @@
+usb_device.c:57:21:get_usbd_handle_ptr	0	static
+usb_device.c:66:6:MX_USB_DEVICE_Init	8	static
